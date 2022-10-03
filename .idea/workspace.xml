@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="676538a2-fba5-472a-a041-7d473a596776" name="Changes" comment="12">
-      <change beforePath="$PROJECT_DIR$/django_projects/locallibrary/locallibrary/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projects/locallibrary/locallibrary/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="676538a2-fba5-472a-a041-7d473a596776" name="Changes" comment="12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664774747048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="12">
+      <created>1664775996200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664775996200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
